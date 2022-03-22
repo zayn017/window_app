@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "623195324181",
+    "project_id": "windowapp-b60b1",
+    "storage_bucket": "windowapp-b60b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623195324181:android:44c0b0b8c8eb7212a7f31c",
+        "android_client_info": {
+          "package_name": "com.example.windowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623195324181-39ncbbm2hsp7bgrtofofrcjv18ektu29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBjSCTPLlrXHeq7ywCP8AZvEisrtf260"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623195324181-39ncbbm2hsp7bgrtofofrcjv18ektu29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623195324181-elchqg7a3rfql4sh8kloagpdfikhqn2g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.windowapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
